@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "Nike confirms Deion Sanders is back in its family after relationship turned sour years ago",
+      "description": "Deion Sanders and Nike divorced many years ago, but the company confirmed Saturday to USA TODAY Sports they are now back in a relationship.",
+      "url": "https://www.usatoday.com/story/sports/ncaaf/2023/07/08/deion-sanders-nike-relationship-under-armour-colorado-football-coach/70394888007/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2023/07/09/USAT/4328b1d6-f718-41a9-9fda-219b102931c9-GTY_1484200617.JPG?auto=webp&crop=4338,2441,x0,y220&format=pjpg&width=1200",
+      "publishedAt": "2023-07-09T00:38:00+00:00",
+      "content": "Deion Sanders and Nike are back together again after divorcing many years ago when their relationship turned sour and left him feeling unappreciated.\r\nNike confirmed the reunion Saturday in an email … [+3780 chars]"
+    },
+    {
+      "source": { "id": "four-four-two", "name": "FourFourTwo" },
+      "author": "Chris Flanagan",
+      "title": "Diogo Jota believes no other footballer could beat him at FIFA - especially not Cristiano Ronaldo",
+      "description": "In an exclusive interview, the Liverpool forward tells FourFourTwo that he's even defeated eSports professionals",
+      "url": "https://www.fourfourtwo.com/news/diogo-jota-fifa-expert-cristiano-ronaldo",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/zdx63Q25PHw2VPatcMvVFX-1200-80.jpg",
+      "publishedAt": "2023-07-08T11:00:37Z",
+      "content": "Diogo Jota isn’t just one of the Premier League’s most dangerous forwards - he’s also a whizz at FIFA.\r\nThe Liverpool star celebrated his winner against Tottenham by sitting on the turf, pretending t… [+2230 chars]"
+    },
+    {
+      "source": { "id": "bleacher-report", "name": "Bleacher Report" },
+      "author": null,
+      "title": "Wemby Draft Success ",
+      "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+      "url": "https://bleacherreport.com/videos/451782-wemby-draft-success",
+      "urlToImage": null,
+      "publishedAt": "2023-06-29T18:52:20.659013Z",
+      "content": "Copyright © 2023 Bleacher Report, Inc. Turner Broadcasting System, Inc.\r\n All Rights Reserved.\r\n BleacherReport.com is part of Bleacher Report Turner Sports Network, part of the Turner Sports and Ent… [+200 chars]"
+    },
+    {
+      "source": { "id": "nrk", "name": "NRK" },
+      "author": "NRK",
+      "title": "De siste sportsnyhetene fra NRK",
+      "description": "Her får du de siste sportsnyhetene fra NRK.",
+      "url": "https://www.nrk.no/sport/sportsnyheter-1.14660227?festet=1.16476828#festet",
+      "urlToImage": "https://gfx.nrk.no/7kT5zGoE2E-GnUKLojH1PQ0I1Nze4Ypu8lxM-oBjubQw.jpg",
+      "publishedAt": "2019-08-14T09:09:42Z",
+      "content": "8. juli2023kl.09:12Etter å ha gått glipp av både OL i Tokyo (2021) og VM i Eugene (2021), er Sha'Carri Richardson (23) klar for et globalt mesterskap. Storfavoritten innfridde på 100 meter i det amer… [+1615 chars]"
+    }
+  ]
+}
